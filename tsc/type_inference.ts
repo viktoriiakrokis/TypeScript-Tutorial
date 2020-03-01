@@ -1,4 +1,4 @@
-
+// first value in property define type of value for future
 let car = {
 
     brand: "BMW",
@@ -12,6 +12,9 @@ let car = {
 }
 
 car.brand = 5.4; // it is string-value property, i cant assign number value
+
+let house = "house";
+house = 32;// not works
 
 
 
